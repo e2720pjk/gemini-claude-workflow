@@ -24,7 +24,7 @@ It allows you to fully leverage Gemini's coordination capabilities and Claude Co
 First, clone this template project to your local machine:
 
 ```bash
-git clone [Git URL of this project]
+git clone https://github.com/e2720pjk/gemini-claude-workflow.git
 cp GEMINI.md GEMINI_zh-TW.md claude-with-log.sh [Your project root directory]
 ```
 

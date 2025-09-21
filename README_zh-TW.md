@@ -24,7 +24,7 @@
 首先，將此模板專案複製到您的本地：
 
 ```bash
-git clone [此專案的 Git URL]
+git clone https://github.com/e2720pjk/gemini-claude-workflow.git
 cp GEMINI.md GEMINI_zh-TW.md claude-with-log.sh [您的專案根目錄]
 ```
 
