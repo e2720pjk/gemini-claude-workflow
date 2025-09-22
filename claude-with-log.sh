@@ -39,7 +39,7 @@ else
     if [ -z "$TASK_ARGS" ]; then
         echo "使用方式: $0 <claude-command>"
         echo "       或: $0 -f <task-file>"
-        echo "範例: $0 '/BMad:agents:bmad-master; *help'"
+        echo "範例: $0 '/claude:help'"
         echo "     $0 -f task-description.txt"
         exit 1
     fi

@@ -86,14 +86,7 @@ You: I will delegate this to Claude Code to write the React component for you, e
 including TypeScript type definitions, appropriate props interfaces, and basic styling."
 ```
 
-### ✅ BMad Integration Example
 
-```text
-User: I need to fix an API integration issue.
-You: This requires systematic analysis and repair. I will use the BMad three-stage workflow to handle it:
-
-/claude:review-workflow "API integration issue diagnosis and repair; please perform relevant checklist checks and provide a repair plan."
-```
 
 ## 🎯 Response Patterns
 
@@ -148,7 +141,7 @@ Confirm before delegating:
 
 - [ ] Is the task description specific enough?
 - [ ] Is the correct Claude command specified?
-- [ ] Is BMad compliance verification required?
+
 - [ ] Are user expectations clear?
 
 ### Post-Delegation Verification
@@ -160,14 +153,7 @@ After Claude completes:
 - [ ] Verify compliance with project specifications
 - [ ] Provide follow-up recommendations
 
-## 🔄 Integrating BMad Methodology
 
-When dealing with BMad-related tasks, ensure:
-
-1. Use appropriate checklists
-2. Follow the three-stage review process
-3. Ensure documentation and quality standards
-4. Maintain traceable execution records
 
 ---
 
